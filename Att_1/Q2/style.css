@@ -1,0 +1,19 @@
+nav a {
+    display: inline-block;
+    width: 20%;
+    margin: 20px;
+    background-color: bisque;
+    color: black;
+    border-radius: 3px;
+    text-align: center;
+}
+
+section textarea {
+    display: inline-block;
+    width: 45%;
+    margin: 5%;
+    background-color: rgb(157, 27, 197);
+    color: rgb(214, 199, 34);
+    border: solid 1px rgb(0, 0, 0);
+    box-shadow: 1px 1px 1px 1px rgb(70, 68, 68);
+}
