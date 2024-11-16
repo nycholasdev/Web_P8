@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(5, 168, 243);
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    height: 80vh;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid;
+    border-radius: 3px;
+    background-color: white;
+    box-shadow: 1px 1px rgb(136, 131, 131);
+}
+ 
+header {
+    border: 1px solid;
+    text-align: center;
+    background-color: rgb(235, 116, 32);
+}
+ 
+ 
+footer {
+    text-align: left;
+    position: absolute;
+    bottom: 0;
+    border-top: 1px solid gray;
+    margin: 20px;
+}
+ 
+ 
+.sidebar {
+    background-color: white;
+    width: 300px;
+    height: 150px;
+    margin: 20px;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 1px 1px rgb(136, 131, 131);
+}
+ 
+ 
+.card {
+    border-bottom: 1px solid rgb(177, 168, 168);
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+ 
